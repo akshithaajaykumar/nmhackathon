@@ -8,6 +8,8 @@ Data used :
 3.Pressure 
 4.Machine runtime hours
 5.Maintenance history 
+STEPS - 
+1. We will have to collect d
 Classification models used :
 RandomForest Regresssor
 Logistic Regression
