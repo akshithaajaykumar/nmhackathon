@@ -11,6 +11,7 @@ Data used :
 3. Pressure 
 4. Machine runtime hours
 5. Maintenance history
+   
 TOOLS USED:
 Python,Jupyter Notebook, Pandas, Scikit-learn
 STEPS - 
@@ -19,17 +20,20 @@ STEPS -
 3. We should choose the rigth classification or regression model to predict the failure beforehand.
 4. We extract data from the file by reading it.
 5. We process the data from historical sensors to predict the downtime
-6. We develop a Machine Learning model to predict failure in advance 
+6. We develop a Machine Learning model to predict failure in advance
+   
 Classification models used :
 1. RandomForest Regresssor
 2. Logistic Regression
 3. IsolationForest – Anomaly Detection
+   
 BUSINESS IMPACT:
 1. Lower Maintenance Costs
 2. Extended Lifespan
 3. Reduced Downtime
 4. Improved Safety and Compliance
 5. Increased Efficiency of Machines
+   
 KEY TAKEAWAYS :
 1. Data Preprocessing is Critical 
 2. Choosing the Right Model Type
@@ -39,6 +43,7 @@ Wrong model for the target: Using a classifier on a continuous target causes err
 4. Confusion Matrix & ROC Curve for Evaluation
 Confusion Matrix helps evaluate classification performance (e.g., TP, FP, FN, TN).
 ROC Curve shows how well the model distinguishes between classes; AUC closer to 1 = better performance.
+
 CONTRIBUTION TO SOCIETY :
 1. Reduces Industrial Waste
 2. Lowers Maintenance Costs for All
